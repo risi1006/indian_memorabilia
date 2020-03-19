@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Indian Memorabilia</string>
+
+    <string name="hello_world">Indian Memorabilia</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="new_password">New Password</string>
+    <string name="mob">Mobile No</string>
+    <string name="singin">SignIn</string>
+    <string name="singup">SignUp</string>
+    <string name="no_acc">No account yet? Create one</string>
+    <string name="have_acc">Already a member? Login</string>
+
+
+</resources>
